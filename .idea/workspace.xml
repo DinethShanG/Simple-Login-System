@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da3ac1dd-69d6-4fff-a3ac-c24fbbd64cc6" name="Default Changelist" comment="" />
+    <list default="true" id="da3ac1dd-69d6-4fff-a3ac-c24fbbd64cc6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University Management System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/University Management System.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X77n3bw64FVQficXFfFJcK2L4t" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/AbsoluteLayout.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Libraries to import/mysql-connector-java-8.0.18.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -74,17 +81,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:universitymanagementsystem@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:universitymanagementsystem@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@22b0e3d3" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -102,6 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580385442677</updated>
       <workItem from="1580385446215" duration="3781000" />
+      <workItem from="1580392248714" duration="240000" />
     </task>
     <servers />
   </component>
@@ -113,10 +111,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1580386901734" />
-    <state x="473" y="175" key="FileChooserDialogImpl" timestamp="1580388235164">
+    <state x="473" y="175" key="FileChooserDialogImpl" timestamp="1580392331180">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="473" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1580388235164" />
+    <state x="473" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1580392331180" />
     <state width="1492" height="223" key="GridCell.Tab.0.bottom" timestamp="1580388831966">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -133,9 +131,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1492" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580388831966" />
-    <state x="249" y="8" key="SettingsEditor" timestamp="1580388238910">
+    <state x="249" y="8" key="SettingsEditor" timestamp="1580392337354">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="249" y="8" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580388238910" />
+    <state x="249" y="8" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580392337354" />
   </component>
 </project>

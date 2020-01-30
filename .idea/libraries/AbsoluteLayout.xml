@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AbsoluteLayout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libraries to import/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries to import/mysql-connector-java-8.0.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

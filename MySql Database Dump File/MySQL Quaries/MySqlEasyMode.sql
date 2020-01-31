@@ -15,6 +15,7 @@ CREATE TABLE `subject` (
   `subject_name` varchar(100) NOT NULL,
   PRIMARY KEY (`subject_id`)
 )
+INSERT INTO `subject` VALUES (1,'SENG12213','Data Structures & Algorithms'),(2,'SENG12223','Database Design & Developments'),(3,'SENG12233','Object Oriented Programming');
 DROP TABLE IF EXISTS `subject_has_lecturer`;
 CREATE TABLE `subject_has_lecturer` (
   `lecturer_lecturer_id` int(11) unsigned NOT NULL,

@@ -36,6 +36,15 @@ CREATE TABLE `lecturer` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
+-- Dumping data for table `lecturer`
+--
+
+LOCK TABLES `lecturer` WRITE;
+/*!40000 ALTER TABLE `lecturer` DISABLE KEYS */;
+/*!40000 ALTER TABLE `lecturer` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `student`
 --
 
@@ -54,6 +63,15 @@ CREATE TABLE `student` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
+-- Dumping data for table `student`
+--
+
+LOCK TABLES `student` WRITE;
+/*!40000 ALTER TABLE `student` DISABLE KEYS */;
+/*!40000 ALTER TABLE `student` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `subject`
 --
 
@@ -67,6 +85,16 @@ CREATE TABLE `subject` (
   PRIMARY KEY (`subject_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `subject`
+--
+
+LOCK TABLES `subject` WRITE;
+/*!40000 ALTER TABLE `subject` DISABLE KEYS */;
+INSERT INTO `subject` VALUES (1,'SENG12213','Data Structures & Algorithms'),(2,'SENG12223','Database Design & Developments'),(3,'SENG12233','Object Oriented Programming');
+/*!40000 ALTER TABLE `subject` ENABLE KEYS */;
+UNLOCK TABLES;
 
 --
 -- Table structure for table `subject_has_lecturer`
@@ -86,6 +114,15 @@ CREATE TABLE `subject_has_lecturer` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
+-- Dumping data for table `subject_has_lecturer`
+--
+
+LOCK TABLES `subject_has_lecturer` WRITE;
+/*!40000 ALTER TABLE `subject_has_lecturer` DISABLE KEYS */;
+/*!40000 ALTER TABLE `subject_has_lecturer` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `subject_has_student`
 --
 
@@ -103,6 +140,15 @@ CREATE TABLE `subject_has_student` (
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
+-- Dumping data for table `subject_has_student`
+--
+
+LOCK TABLES `subject_has_student` WRITE;
+/*!40000 ALTER TABLE `subject_has_student` DISABLE KEYS */;
+/*!40000 ALTER TABLE `subject_has_student` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Dumping events for database 'universitymanagementsystem'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -115,4 +161,4 @@ CREATE TABLE `subject_has_student` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-01-30 18:41:33
+-- Dump completed on 2020-01-31  8:46:21

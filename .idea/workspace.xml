@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="University Management System:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="da3ac1dd-69d6-4fff-a3ac-c24fbbd64cc6" name="Default Changelist" comment="" />
+    <list default="true" id="da3ac1dd-69d6-4fff-a3ac-c24fbbd64cc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/University_Management_System_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,10 +49,11 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Libraries to import/mysql-connector-java-8.0.18.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/University_Management_System_jar/University Management System.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -52,7 +62,7 @@
       <recent name="D:\Programming\Java Projects\University Management System\src\interfaces\images" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Home">
     <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.Home" />
       <module name="University Management System" />
@@ -66,6 +76,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UMS" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/University_Management_System_jar/University Management System.jar" />
+      <option name="WORKING_DIRECTORY" value="D:\Programming\Java Projects\Uploaded OOP project\University-Management-System" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="University Management System" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Home" />
+      <item itemvalue="JAR Application.UMS" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Home" />
@@ -96,6 +118,7 @@
       <updated>1580385442677</updated>
       <workItem from="1580385446215" duration="3781000" />
       <workItem from="1580392248714" duration="1314000" />
+      <workItem from="1580440952107" duration="2640000" />
     </task>
     <servers />
   </component>
@@ -103,33 +126,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580386901734">
+    <state x="361" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580441781033">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1580386901734" />
-    <state x="473" y="175" key="FileChooserDialogImpl" timestamp="1580392331180">
+    <state x="361" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1580441781033" />
+    <state x="499" y="217" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580441063993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="473" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1580392331180" />
-    <state width="1492" height="223" key="GridCell.Tab.0.bottom" timestamp="1580388831966">
+    <state x="499" y="217" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1580441063993" />
+    <state x="473" y="175" key="FileChooserDialogImpl" timestamp="1580442839359">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580388831966" />
-    <state width="1492" height="223" key="GridCell.Tab.0.center" timestamp="1580388831966">
+    <state x="473" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1580442839359" />
+    <state width="1492" height="223" key="GridCell.Tab.0.bottom" timestamp="1580441806940">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580388831966" />
-    <state width="1492" height="223" key="GridCell.Tab.0.left" timestamp="1580388831966">
+    <state width="1492" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580441806940" />
+    <state width="1492" height="223" key="GridCell.Tab.0.center" timestamp="1580441806940">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580388831966" />
-    <state width="1492" height="223" key="GridCell.Tab.0.right" timestamp="1580388831966">
+    <state width="1492" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580441806940" />
+    <state width="1492" height="223" key="GridCell.Tab.0.left" timestamp="1580441806939">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580388831966" />
-    <state x="249" y="8" key="SettingsEditor" timestamp="1580392337354">
+    <state width="1492" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580441806939" />
+    <state width="1492" height="223" key="GridCell.Tab.0.right" timestamp="1580441806940">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="249" y="8" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580392337354" />
+    <state width="1492" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580441806940" />
+    <state x="249" y="8" key="SettingsEditor" timestamp="1580441094114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="8" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580441094114" />
   </component>
 </project>

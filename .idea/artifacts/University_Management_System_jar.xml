@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="University Management System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/University_Management_System_jar</output-path>
+    <root id="archive" name="University Management System.jar">
+      <element id="module-output" name="University Management System" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Libraries to import/AbsoluteLayout.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Libraries to import/mysql-connector-java-8.0.18.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

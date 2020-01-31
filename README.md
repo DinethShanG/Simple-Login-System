@@ -37,7 +37,7 @@ After Cloning the Git Repository You have to Establish the Database Connection a
 			#### If your Creadentials are different from aboves you have to change code as following.
 					*Open project from intellij idea ultimate
 					*Go to following directory using intellij project tab (src->dbconnection->DBConnect.java) and open DBConnection.java
-					*There in Line 7 and 8 code is as follow
+					*There, Line 7 and 8 code is as follow
 							private String user="root";
 							private String pass="root";
 					*you have to change is follow

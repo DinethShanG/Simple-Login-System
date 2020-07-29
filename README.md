@@ -1,5 +1,5 @@
 										/*READ ME First*/
-# University-Management-System
+# Simple login system for University-Management-System
 SE/2017/013 OOP Project UMS
 
 ***Step to Run University-Management-System***
